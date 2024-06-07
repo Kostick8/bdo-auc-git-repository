@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u041F\u0420\u041E\u0413\u0413\u0418\\kibor_set\\python\\GetItemInfo3 (API, code) Yandex\\GetItemInfo3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Konstantin\\AppData\\Local\\SourceServer\\2178ab1d440de8e779bb0ab5e893070785e665b828d86304a5c21fbdcb10986e\\Src\\Support\\Google.Apis.Auth\\OAuth2\\Responses\\TokenResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA6CFA53-0CF8-48C5-AF12-51C4E1B303EA}|GetItemInfo3\\GetItemInfo3.csproj|E:\\\u041F\u0420\u041E\u0413\u0413\u0418\\kibor_set\\python\\GetItemInfo3 (API, code) Yandex\\GetItemInfo3\\getiteminfo3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA6CFA53-0CF8-48C5-AF12-51C4E1B303EA}|GetItemInfo3\\GetItemInfo3.csproj|solutionrelative:getiteminfo3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|GetItemInfo3||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TokenResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Konstantin\\AppData\\Local\\SourceServer\\2178ab1d440de8e779bb0ab5e893070785e665b828d86304a5c21fbdcb10986e\\Src\\Support\\Google.Apis.Auth\\OAuth2\\Responses\\TokenResponse.cs",
+              "ToolTip": "C:\\Users\\Konstantin\\AppData\\Local\\SourceServer\\2178ab1d440de8e779bb0ab5e893070785e665b828d86304a5c21fbdcb10986e\\Src\\Support\\Google.Apis.Auth\\OAuth2\\Responses\\TokenResponse.cs",
+              "ViewState": "AQIAAL0AAAAAAAAAAAAawNcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T21:09:42.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\\u041F\u0420\u041E\u0413\u0413\u0418\\kibor_set\\python\\GetItemInfo3 (API, code) Yandex\\GetItemInfo3\\GetItemInfo3\\Program.cs",
+              "RelativeDocumentMoniker": "GetItemInfo3\\Program.cs",
+              "ToolTip": "E:\\\u041F\u0420\u041E\u0413\u0413\u0418\\kibor_set\\python\\GetItemInfo3 (API, code) Yandex\\GetItemInfo3\\GetItemInfo3\\Program.cs",
+              "RelativeToolTip": "GetItemInfo3\\Program.cs",
+              "ViewState": "AQIAAP8BAAAAAAAAAIA8wBcCAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T22:22:52.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetItemInfo3",
+              "DocumentMoniker": "E:\\\u041F\u0420\u041E\u0413\u0413\u0418\\kibor_set\\python\\GetItemInfo3 (API, code) Yandex\\GetItemInfo3\\GetItemInfo3\\GetItemInfo3.csproj",
+              "RelativeDocumentMoniker": "GetItemInfo3\\GetItemInfo3.csproj",
+              "ToolTip": "E:\\\u041F\u0420\u041E\u0413\u0413\u0418\\kibor_set\\python\\GetItemInfo3 (API, code) Yandex\\GetItemInfo3\\GetItemInfo3\\GetItemInfo3.csproj",
+              "RelativeToolTip": "GetItemInfo3\\GetItemInfo3.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-03T22:21:39.596Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
